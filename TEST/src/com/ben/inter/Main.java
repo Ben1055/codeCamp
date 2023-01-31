@@ -6,7 +6,8 @@ public class Main
 {
     
 	static String minWindow(String str1, String str2) {
-        int n = str1.length();
+		// Adding Comments
+        int n = str1.length(); // Str.lenghth
         int m = str2.length();
         
         int tIdx = 0 ;
